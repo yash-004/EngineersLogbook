@@ -28,6 +28,11 @@ ionic cordova run android
 ## Authors
 
 Bryan Fang
+
+Lewis Tham
+
+Louis Wang
+
 Yash Dixit
 
 ## Issues
